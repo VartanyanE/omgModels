@@ -11,29 +11,12 @@
 		DEE276C729C69F0A00A75088 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE276C629C69F0A00A75088 /* GameViewController.swift */; };
 		DEE276CA29C69F0A00A75088 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEE276C829C69F0A00A75088 /* Main.storyboard */; };
 		DEE276CD29C69F0A00A75088 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEE276CB29C69F0A00A75088 /* LaunchScreen.storyboard */; };
-		DEE276D529C69F0A00A75088 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE276D429C69F0A00A75088 /* AppDelegate.swift */; };
-		DEE276D729C69F0A00A75088 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE276D629C69F0A00A75088 /* GameViewController.swift */; };
-		DEE276DA29C69F0A00A75088 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEE276D829C69F0A00A75088 /* Main.storyboard */; };
-		DEE276DD29C69F0A00A75088 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEE276DB29C69F0A00A75088 /* LaunchScreen.storyboard */; };
-		DEE276E529C69F0A00A75088 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE276E429C69F0A00A75088 /* AppDelegate.swift */; };
-		DEE276E729C69F0A00A75088 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE276E629C69F0A00A75088 /* GameViewController.swift */; };
-		DEE276EA29C69F0A00A75088 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEE276E829C69F0A00A75088 /* Main.storyboard */; };
-		DEE276EC29C69F0A00A75088 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = DEE276B929C69F0700A75088 /* Actions.sks */; };
-		DEE276ED29C69F0A00A75088 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = DEE276B929C69F0700A75088 /* Actions.sks */; };
-		DEE276EE29C69F0A00A75088 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = DEE276B929C69F0700A75088 /* Actions.sks */; };
 		DEE276EF29C69F0A00A75088 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DEE276BA29C69F0700A75088 /* GameScene.sks */; };
-		DEE276F029C69F0A00A75088 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DEE276BA29C69F0700A75088 /* GameScene.sks */; };
-		DEE276F129C69F0A00A75088 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DEE276BA29C69F0700A75088 /* GameScene.sks */; };
 		DEE276F229C69F0A00A75088 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE276BB29C69F0700A75088 /* GameScene.swift */; };
-		DEE276F329C69F0A00A75088 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE276BB29C69F0700A75088 /* GameScene.swift */; };
-		DEE276F429C69F0A00A75088 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE276BB29C69F0700A75088 /* GameScene.swift */; };
 		DEE276F529C69F0A00A75088 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEE276BC29C69F0A00A75088 /* Assets.xcassets */; };
-		DEE276F629C69F0A00A75088 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEE276BC29C69F0A00A75088 /* Assets.xcassets */; };
-		DEE276F729C69F0A00A75088 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEE276BC29C69F0A00A75088 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DEE276B929C69F0700A75088 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		DEE276BA29C69F0700A75088 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		DEE276BB29C69F0700A75088 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		DEE276BC29C69F0A00A75088 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -42,34 +25,10 @@
 		DEE276C629C69F0A00A75088 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		DEE276C929C69F0A00A75088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DEE276CC29C69F0A00A75088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DEE276D229C69F0A00A75088 /* OMGmodels.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OMGmodels.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEE276D429C69F0A00A75088 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DEE276D629C69F0A00A75088 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
-		DEE276D929C69F0A00A75088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DEE276DC29C69F0A00A75088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DEE276E229C69F0A00A75088 /* OMGmodels.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OMGmodels.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEE276E429C69F0A00A75088 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DEE276E629C69F0A00A75088 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
-		DEE276E929C69F0A00A75088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DEE276EB29C69F0A00A75088 /* OMGmodels_macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OMGmodels_macOS.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		DEE276BE29C69F0A00A75088 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DEE276CF29C69F0A00A75088 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DEE276DF29C69F0A00A75088 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -84,8 +43,6 @@
 			children = (
 				DEE276B829C69F0700A75088 /* OMGmodels Shared */,
 				DEE276C329C69F0A00A75088 /* OMGmodels iOS */,
-				DEE276D329C69F0A00A75088 /* OMGmodels tvOS */,
-				DEE276E329C69F0A00A75088 /* OMGmodels macOS */,
 				DEE276C229C69F0A00A75088 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -93,7 +50,6 @@
 		DEE276B829C69F0700A75088 /* OMGmodels Shared */ = {
 			isa = PBXGroup;
 			children = (
-				DEE276B929C69F0700A75088 /* Actions.sks */,
 				DEE276BA29C69F0700A75088 /* GameScene.sks */,
 				DEE276BB29C69F0700A75088 /* GameScene.swift */,
 				DEE276BC29C69F0A00A75088 /* Assets.xcassets */,
@@ -105,8 +61,6 @@
 			isa = PBXGroup;
 			children = (
 				DEE276C129C69F0A00A75088 /* OMGmodels.app */,
-				DEE276D229C69F0A00A75088 /* OMGmodels.app */,
-				DEE276E229C69F0A00A75088 /* OMGmodels.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -120,28 +74,6 @@
 				DEE276CB29C69F0A00A75088 /* LaunchScreen.storyboard */,
 			);
 			path = "OMGmodels iOS";
-			sourceTree = "<group>";
-		};
-		DEE276D329C69F0A00A75088 /* OMGmodels tvOS */ = {
-			isa = PBXGroup;
-			children = (
-				DEE276D429C69F0A00A75088 /* AppDelegate.swift */,
-				DEE276D629C69F0A00A75088 /* GameViewController.swift */,
-				DEE276D829C69F0A00A75088 /* Main.storyboard */,
-				DEE276DB29C69F0A00A75088 /* LaunchScreen.storyboard */,
-			);
-			path = "OMGmodels tvOS";
-			sourceTree = "<group>";
-		};
-		DEE276E329C69F0A00A75088 /* OMGmodels macOS */ = {
-			isa = PBXGroup;
-			children = (
-				DEE276E429C69F0A00A75088 /* AppDelegate.swift */,
-				DEE276E629C69F0A00A75088 /* GameViewController.swift */,
-				DEE276E829C69F0A00A75088 /* Main.storyboard */,
-				DEE276EB29C69F0A00A75088 /* OMGmodels_macOS.entitlements */,
-			);
-			path = "OMGmodels macOS";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,40 +96,6 @@
 			productReference = DEE276C129C69F0A00A75088 /* OMGmodels.app */;
 			productType = "com.apple.product-type.application";
 		};
-		DEE276D129C69F0A00A75088 /* OMGmodels tvOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = DEE276FD29C69F0A00A75088 /* Build configuration list for PBXNativeTarget "OMGmodels tvOS" */;
-			buildPhases = (
-				DEE276CE29C69F0A00A75088 /* Sources */,
-				DEE276CF29C69F0A00A75088 /* Frameworks */,
-				DEE276D029C69F0A00A75088 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "OMGmodels tvOS";
-			productName = "OMGmodels tvOS";
-			productReference = DEE276D229C69F0A00A75088 /* OMGmodels.app */;
-			productType = "com.apple.product-type.application";
-		};
-		DEE276E129C69F0A00A75088 /* OMGmodels macOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = DEE2770029C69F0A00A75088 /* Build configuration list for PBXNativeTarget "OMGmodels macOS" */;
-			buildPhases = (
-				DEE276DE29C69F0A00A75088 /* Sources */,
-				DEE276DF29C69F0A00A75088 /* Frameworks */,
-				DEE276E029C69F0A00A75088 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "OMGmodels macOS";
-			productName = "OMGmodels macOS";
-			productReference = DEE276E229C69F0A00A75088 /* OMGmodels.app */;
-			productType = "com.apple.product-type.application";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -209,12 +107,6 @@
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
 					DEE276C029C69F0A00A75088 = {
-						CreatedOnToolsVersion = 14.2;
-					};
-					DEE276D129C69F0A00A75088 = {
-						CreatedOnToolsVersion = 14.2;
-					};
-					DEE276E129C69F0A00A75088 = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
@@ -233,8 +125,6 @@
 			projectRoot = "";
 			targets = (
 				DEE276C029C69F0A00A75088 /* OMGmodels iOS */,
-				DEE276D129C69F0A00A75088 /* OMGmodels tvOS */,
-				DEE276E129C69F0A00A75088 /* OMGmodels macOS */,
 			);
 		};
 /* End PBXProject section */
@@ -246,32 +136,8 @@
 			files = (
 				DEE276EF29C69F0A00A75088 /* GameScene.sks in Resources */,
 				DEE276CA29C69F0A00A75088 /* Main.storyboard in Resources */,
-				DEE276EC29C69F0A00A75088 /* Actions.sks in Resources */,
 				DEE276CD29C69F0A00A75088 /* LaunchScreen.storyboard in Resources */,
 				DEE276F529C69F0A00A75088 /* Assets.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DEE276D029C69F0A00A75088 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DEE276F029C69F0A00A75088 /* GameScene.sks in Resources */,
-				DEE276DA29C69F0A00A75088 /* Main.storyboard in Resources */,
-				DEE276ED29C69F0A00A75088 /* Actions.sks in Resources */,
-				DEE276DD29C69F0A00A75088 /* LaunchScreen.storyboard in Resources */,
-				DEE276F629C69F0A00A75088 /* Assets.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DEE276E029C69F0A00A75088 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DEE276EA29C69F0A00A75088 /* Main.storyboard in Resources */,
-				DEE276F129C69F0A00A75088 /* GameScene.sks in Resources */,
-				DEE276F729C69F0A00A75088 /* Assets.xcassets in Resources */,
-				DEE276EE29C69F0A00A75088 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,26 +151,6 @@
 				DEE276F229C69F0A00A75088 /* GameScene.swift in Sources */,
 				DEE276C729C69F0A00A75088 /* GameViewController.swift in Sources */,
 				DEE276C529C69F0A00A75088 /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DEE276CE29C69F0A00A75088 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DEE276F329C69F0A00A75088 /* GameScene.swift in Sources */,
-				DEE276D729C69F0A00A75088 /* GameViewController.swift in Sources */,
-				DEE276D529C69F0A00A75088 /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DEE276DE29C69F0A00A75088 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DEE276F429C69F0A00A75088 /* GameScene.swift in Sources */,
-				DEE276E729C69F0A00A75088 /* GameViewController.swift in Sources */,
-				DEE276E529C69F0A00A75088 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,30 +171,6 @@
 				DEE276CC29C69F0A00A75088 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		DEE276D829C69F0A00A75088 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				DEE276D929C69F0A00A75088 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		DEE276DB29C69F0A00A75088 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				DEE276DC29C69F0A00A75088 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		DEE276E829C69F0A00A75088 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				DEE276E929C69F0A00A75088 /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -475,10 +297,10 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationLandscapeRight;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -487,9 +309,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = zanderapi.OMGmodels;
 				PRODUCT_NAME = OMGmodels;
 				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -505,10 +330,10 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationLandscapeRight;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -517,123 +342,13 @@
 				PRODUCT_BUNDLE_IDENTIFIER = zanderapi.OMGmodels;
 				PRODUCT_NAME = OMGmodels;
 				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		DEE276FE29C69F0A00A75088 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "tvOS App Icon & Top Shelf Image";
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = B8KBVB47L2;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zanderapi.OMGmodels;
-				PRODUCT_NAME = OMGmodels;
-				SDKROOT = appletvos;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 16.1;
-			};
-			name = Debug;
-		};
-		DEE276FF29C69F0A00A75088 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "tvOS App Icon & Top Shelf Image";
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = B8KBVB47L2;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zanderapi.OMGmodels;
-				PRODUCT_NAME = OMGmodels;
-				SDKROOT = appletvos;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 16.1;
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		DEE2770129C69F0A00A75088 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "OMGmodels macOS/OMGmodels_macOS.entitlements";
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = B8KBVB47L2;
-				ENABLE_HARDENED_RUNTIME = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSMainStoryboardFile = Main;
-				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 13.1;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zanderapi.OMGmodels;
-				PRODUCT_NAME = OMGmodels;
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-			};
-			name = Debug;
-		};
-		DEE2770229C69F0A00A75088 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "OMGmodels macOS/OMGmodels_macOS.entitlements";
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = B8KBVB47L2;
-				ENABLE_HARDENED_RUNTIME = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSMainStoryboardFile = Main;
-				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 13.1;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zanderapi.OMGmodels;
-				PRODUCT_NAME = OMGmodels;
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -654,24 +369,6 @@
 			buildConfigurations = (
 				DEE276FB29C69F0A00A75088 /* Debug */,
 				DEE276FC29C69F0A00A75088 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		DEE276FD29C69F0A00A75088 /* Build configuration list for PBXNativeTarget "OMGmodels tvOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				DEE276FE29C69F0A00A75088 /* Debug */,
-				DEE276FF29C69F0A00A75088 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		DEE2770029C69F0A00A75088 /* Build configuration list for PBXNativeTarget "OMGmodels macOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				DEE2770129C69F0A00A75088 /* Debug */,
-				DEE2770229C69F0A00A75088 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
